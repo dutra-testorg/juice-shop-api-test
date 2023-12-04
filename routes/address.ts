@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+// adding some comment here to trigger sonar
+
 import { type Request, type Response } from 'express'
 import { AddressModel } from '../models/address'
 
